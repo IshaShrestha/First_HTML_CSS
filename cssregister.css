@@ -1,0 +1,70 @@
+body{
+    background-image: url("SlashGuitar_0001.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-top: 5%;
+}
+
+h1{
+    color:darkorange ;
+    font-size: 500%;
+    margin-top: -45px;
+}
+
+button{
+    background-color: darkorange;
+    border-radius: 10%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 3%;
+}
+form{
+    font-size: 110%;
+    color: white;
+    margin-right: 15%;
+    background-color: transparent;
+    border-radius: 10%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-top:-70px;
+
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 4px;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 6px;
+    color: darkorange;
+    background-color: white;
+}
+h2{
+    color:orange;
+    font-size: 200%;
+}
+select{
+    border-radius: 6px;
+    background-color: white;
+    border: 2px solid red;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;;
+    width: 35%
+}

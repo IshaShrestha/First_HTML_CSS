@@ -1,0 +1,41 @@
+button {
+    border-radius: 10%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    background-color: red;
+    font-size: 16px;
+}
+
+body{
+    margin-top: 5%;
+      background-color: firebrick;
+    background-image: url("guns_n_roses.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+p{
+    font-size: 25px;
+    margin: 100px;
+    color: darkgreen;
+}
+
+
+h1{
+    color:green;
+    font-size: 500%;
+    text-shadow: white;
+    background-color: white;
+    margin-top: -45px;
+}
+header{
+    background-color: antiquewhite;
+}
+h2{
+    margin-top: 300px;
+}
